@@ -23,5 +23,7 @@
   "engines": {
     "node": "*"
   },
-  "dependencies": {}
+  "dependencies": {
+    "request": "2.9.202"
+  }
 }
