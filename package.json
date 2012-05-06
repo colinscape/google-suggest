@@ -1,7 +1,7 @@
 {
   "name": "google-suggest",
   "description": "Utility to provide Google suggestions.",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "keywords": [
     "google",
     "suggest",
@@ -13,7 +13,8 @@
     "url": "git://github.com/colinscape/google-suggest.git"
   },
   "directories": {
-    "lib": "./lib"  },
+    "lib": "./lib"
+  },
   "bin": {
     "google-suggest": "./lib/google-suggest.js"
   },
