@@ -13,7 +13,6 @@ suggest = (query, cb) ->
       return
 
     if response.statusCode is 200 and body
-      console.log body
       result = JSON.parse body
       cb null, result[1]
 
