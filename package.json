@@ -1,7 +1,7 @@
 {
   "name": "google-suggest",
   "description": "Utility to provide Google suggestions.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "keywords": [
     "google",
     "suggest",
