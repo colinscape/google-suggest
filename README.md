@@ -1,4 +1,4 @@
 google-suggest
 ==============
 
-Use GOogle Suggest to complete a query.
+Use Google Suggest to complete a query.
